@@ -12,3 +12,10 @@ C:\Users\Admin\Desktop\thực tập nhóm\ThuVien\DAL\bin\Debug\CommonObject.pdb
 C:\Users\Admin\Desktop\thực tập nhóm\ThuVien\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
 C:\Users\Admin\Desktop\thực tập nhóm\ThuVien\DAL\obj\Debug\DAL.dll
 C:\Users\Admin\Desktop\thực tập nhóm\ThuVien\DAL\obj\Debug\DAL.pdb
+C:\Users\Admin\Desktop\ThucTapNhom1\QuanLyThuVien\DAL\bin\Debug\DAL.dll
+C:\Users\Admin\Desktop\ThucTapNhom1\QuanLyThuVien\DAL\bin\Debug\DAL.pdb
+C:\Users\Admin\Desktop\ThucTapNhom1\QuanLyThuVien\DAL\bin\Debug\CommonObject.dll
+C:\Users\Admin\Desktop\ThucTapNhom1\QuanLyThuVien\DAL\bin\Debug\CommonObject.pdb
+C:\Users\Admin\Desktop\ThucTapNhom1\QuanLyThuVien\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\ThucTapNhom1\QuanLyThuVien\DAL\obj\Debug\DAL.dll
+C:\Users\Admin\Desktop\ThucTapNhom1\QuanLyThuVien\DAL\obj\Debug\DAL.pdb

@@ -8,3 +8,8 @@ C:\Users\Admin\Desktop\thực tập nhóm\ThuVien\CommonObject\bin\Debug\CommonO
 C:\Users\Admin\Desktop\thực tập nhóm\ThuVien\CommonObject\obj\Debug\CommonObject.csprojResolveAssemblyReference.cache
 C:\Users\Admin\Desktop\thực tập nhóm\ThuVien\CommonObject\obj\Debug\CommonObject.dll
 C:\Users\Admin\Desktop\thực tập nhóm\ThuVien\CommonObject\obj\Debug\CommonObject.pdb
+C:\Users\Admin\Desktop\ThucTapNhom1\QuanLyThuVien\CommonObject\bin\Debug\CommonObject.dll
+C:\Users\Admin\Desktop\ThucTapNhom1\QuanLyThuVien\CommonObject\bin\Debug\CommonObject.pdb
+C:\Users\Admin\Desktop\ThucTapNhom1\QuanLyThuVien\CommonObject\obj\Debug\CommonObject.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\ThucTapNhom1\QuanLyThuVien\CommonObject\obj\Debug\CommonObject.dll
+C:\Users\Admin\Desktop\ThucTapNhom1\QuanLyThuVien\CommonObject\obj\Debug\CommonObject.pdb
